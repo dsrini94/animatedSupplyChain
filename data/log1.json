@@ -1,0 +1,14 @@
+{
+  "Product Id":"PROD524932",
+  "Shipment ID (Outlet - DC)":"SHIP275",
+  "Logistics Partner Name":"Americold Logistics",
+  "Outlet (Pick-up) Location":"Princeton, NJ",
+  "DC (Drop) Location":"Trenton, NJ",
+  "Vehicle":"CTF 276H",
+  "Outlet Pick-up - Date":"03/09/2018",
+  "Outlet Pick-up - Time":"10:30:00 PM",
+  "DC Drop - Date":"03/09/2018",
+  "DC Drop - Time":"10:30:00 AM %",
+  "Current Temperature": "59 °F",
+  "Current Humidity": "62 %"
+}
